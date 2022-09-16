@@ -114,11 +114,27 @@
             "country": "Jamaica",
             "description": "Ackee and salt fish is the National dish of Jamaican, made with salted codfish and the national fruit ackee. Jamaican ackee and salt fish is very easy to make and goes with just about any side.",
             "ingredients": [
-                "",
-                ""
+                "2 Canned Ackee",
+                "1 lb Saltfish",
+                "1 Onions Sliced",
+                "1 Small tomato Diced",
+                "1 Sweet bell pepper",
+                "1 Stalk scallions Chopped",
+                "2 Sprig thyme",
+                "¼ Scotch bonnet pepper Seeds removed",
+                "½ tsp Black pepper",
+                "2 tbsp Cooking oil"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Soak the saltfish for a minimum of two hours in cold water.", 
+                "Step 2: Pour out the water.",
+                "Step 3: In a saucepan, place the saltfish and cover with fresh water. Put to boil on medium heat for 15 minutes.",
+                "Step 4: Remove from heat and pour away the hot water. Wash the fish in cold water to cool it.",
+                "Step 5: Remove the fish skin and debone the saltfish. Flake the saltfish and set aside.",
+                "Step 6: On medium fire, heat the oil in a cooking skillet. Add the onions, thyme, tomato, sweet pepper, scotch bonnet pepper, scallions and sauté for 3 minutes.",
+                "Step 7: Add the flaked saltfish and cook for another 3 minutes.",
+                "Step 8: Add the ackee, lower the heat and let it simmer for another 10-15 minutes.",
+                "Step 9: Add the black pepper, turn the heat off and serve."
             ], 
             "image": "public/images/AckeeandSaltfish.jpeg",
             "category": "breakfast"
@@ -128,16 +144,27 @@
             "id": 5,
             "title": "Pho",
             "country": "Vietnam",
-            "description": " ",
+            "description": "At the core, a Vietnam pho is a noodle soup.Vietnamese herbs including green onions, ginger, and coriander are included. This noodle soup is accompanied by thinly cut slices of meat, primarily beef or sometimes chicken. Not too heavy, it is a flavorful soup that is most commonly eaten for breakfast.",
             "ingredients": [
-                "",
-                ""
+                "10 pounds beef bones - preferably a mix of marrow bones (femur bones) and bones with meat on them (oxtail, short ribs, and knuckle bones cut in half)",
+                "2 medium yellow onions - peel and quarter",
+                "2 whole heads garlic - halved crosswise",
+                "4 (2-inch pieces) ginger - sliced lengthwise",
+                "6 whole star anise",
+                "12 whole cloves",
+                "2 whole cinnamon sticks",
+                "2 black cardamom pods",
+                "2 tablespoon fennel seeds",
+                "2 tablespoon coriander seeds",
+                "2 tablespoon salt - (plus more to taste)",
+                "2/3 cup fish sauce - divided between the two pots",
+                "4 tablespoon sugar - divided between the two pots"
             ],
             "instructions": [
                 "Step 1: "
             ], 
             "image": "public/images/Pho.jpeg",
-            "category": " "
+            "category": "breakfast"
 
         }, 
         {
