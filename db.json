@@ -78,11 +78,11 @@
                 "1 onion, chopped",
                 "2 garlic cloves, chopped",
                 "2 tablespoons oil",
-                "Half teaspoon black pepper",
-                "Half teaspoon cayenne",
+                "1/2 teaspoon black pepper",
+                "1/2 teaspoon cayenne",
                 "2 tablespoons california chili powder",
                 "1 tablespoon salt",
-                ".25 teaspoon oregano",
+                "1/4 teaspoon oregano",
                 "4 cups canned white hominy, drained and rinsed",
                 "3 -5 cups pork broth, from cooking pork shoulder",
                 "1 cup canned diced green chilis (optional)",
@@ -112,7 +112,7 @@
             "id": 4,
             "title": "Ackee & Saltfish",
             "country": "Jamaica",
-            "description": " ",
+            "description": "Ackee and salt fish is the National dish of Jamaican, made with salted codfish and the national fruit ackee. Jamaican ackee and salt fish is very easy to make and goes with just about any side.",
             "ingredients": [
                 "",
                 ""
@@ -120,9 +120,8 @@
             "instructions": [
                 "Step 1: "
             ], 
-            "image": " ",
-            "category": "breakfast",
-            "url": " "
+            "image": "public/images/AckeeandSaltfish.jpeg",
+            "category": "breakfast"
 
         }, 
         {
@@ -137,9 +136,8 @@
             "instructions": [
                 "Step 1: "
             ], 
-            "image": " ",
-            "category": " ",
-            "url": " "
+            "image": "public/images/Pho.jpeg",
+            "category": " "
 
         }, 
         {
@@ -154,9 +152,8 @@
             "instructions": [
                 "Step 1: "
             ], 
-            "image": " ",
-            "category": "lunch ",
-            "url": " "
+            "image": "public/images/CallalooCrabsSoup.jpeg",
+            "category": "lunch "
 
         }, 
         {
@@ -171,9 +168,8 @@
             "instructions": [
                 "Step 1: "
             ], 
-            "image": " ",
-            "category": " ",
-            "url": " "
+            "image": "public/images/LaBandera.jpeg",
+            "category": " "
 
         }, 
         {
@@ -188,9 +184,8 @@
             "instructions": [
                 "Step 1: "
             ], 
-            "image": " ",
-            "category": " ",
-            "url": " "
+            "image": "public/images/Medialunas.jpeg",
+            "category": " "
 
         }, 
         {
@@ -206,8 +201,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -223,8 +217,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -240,8 +233,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -257,8 +249,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -274,8 +265,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -291,8 +281,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -308,8 +297,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -325,8 +313,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -342,8 +329,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -359,8 +345,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": "snack",
-            "url": " "
+            "category": "snack"
 
         }, 
         {
@@ -376,8 +361,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }, 
         {
@@ -393,8 +377,7 @@
                 "Step 1: "
             ], 
             "image": " ",
-            "category": " ",
-            "url": " "
+            "category": " "
 
         }  
 
