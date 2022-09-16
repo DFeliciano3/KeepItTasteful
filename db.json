@@ -1,0 +1,402 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "title": "Arroz con Gandules (Rice & Pigeon Peas",
+            "country": "Puerto Rico",
+            "description": "Arroz con gandules is a one-pot national dish of Puerto Rico consisting of rice, pigeon peas, and sofrito, and every family in the country has their own version of the recipe. The dish dates back to the 18th century. With numerous layers of flavor, this is the dish that is traditionally made for Christmas dinner in Puerto Rico, and it's easy to see why. ",
+            "ingredients": [
+                "3 cups medium or long grain white rice, rinsed",
+                "3 tablespoons vegetable oil", 
+                "2 heaping tablespoons sofrito",
+                "4 ounces tomato sauce",
+                "1 can (15 ounces) gandules (pigeon peas), partially drained",
+                "2 heaping tablespoons alcaparrado", 
+                "1 packet Sazón with Achiote (I use Goya brand)",
+                "Optional: 1/2 packet ham flavoring (I use Goya brand Jamón)",
+                "1 teaspoon adobo",
+                "1/4 teaspoon garlic powder",
+                "1/4 teaspoon ground cumin",
+                "1/8 teaspoon ground oregano",
+                "Salt and pepper to taste (start off with 2 teaspoons of salt)",
+                "4-6 cups hot water"
+            ],
+            "instructions": [
+                "Step 1. Rinse rice well in water and set aside.",
+                "Step 2. In a medium caldero or large pot (about 6 quarts or so), heat oil and sauté sofrito until softened. Add tomato sauce and simmer for 2 minutes.",
+                "Step 3. Stir in gandules, alcaparrado, all of the spices and 4 cups of water. Taste and readjust seasonings, adding additional salt 1 teaspoon at a time. Broth should be heavily seasoned and on the salty side.",
+                "Step 4. Bring to a rapid boil, then add rice and stir. You may need to add more water to ensure rice is covered by 1 inch of water. Reduce heat to a soft boil and let most of the liquid absorb and evaporate, stirring occasionally, very gently, so rice does not turn gummy.",
+                "Step 5. Carefully mound rice towards center of pot, top with foil and cover with lid. Reduce heat to simmer and cook for 20 minutes. Stir by folding rice from the bottom up, but do not disturb bottom of pan. Cook for another 20-30 minutes, testing after 20 to see if rice is tender and cooked through."
+            ], 
+            "image": "public/images/arrozcongandules.jpeg",
+            "category": [
+                "lunch", 
+                "dinner"
+            ]
+
+        }, 
+        {
+            "id": 2,
+            "title": "Filipino Pancit",
+            "country": "Phillipines",
+            "description": "Pancit is a classic Filipino Recipe. It is a quick and easy stir-fried rice noodle dish with a savory sauce, pork and vegetables. ",
+            "ingredients": [
+                "1 8.8 ounce package Thai Vermicelli rice noodles",
+                "2 tablespoons canola oil",
+                "1 pound pork chops about 4 chops, sliced into bite size pieces",
+                "1 yellow onion diced",
+                "6 cloves garlic minced",
+                "2 tablespoons soy sauce",
+                "1 cup chicken stock",
+                "2 cups shredded cabbage",
+                "1/2 cup sliced carrots",
+                "3 diced green onions",
+                "kosher salt and cracked pepper to taste"
+            ],
+            "instructions": [
+                "Step 1: Soak noodles according to package directions.", 
+                "Step 2: Prep the pork and vegetables by cutting into uniform sizes.",
+                "Step 3: Heat oil in a wok or large saute pan. Add pork, yellow onion, garlic and soy sauce. Cook 3-5 minutes or until pork is browned. Season to taste with salt and pepper.", 
+                "Step 4: Add chicken stock, cabbage, carrots and green onions. Cook 3-5 minutes or until vegetables have softened. Add noodles to pork and vegetable mixture. Toss to combine. Season to taste with salt and pepper. Serve."
+            ], 
+            "image": "public/images/FilipinoPancit.jpeg",
+            "category": [
+                "lunch", 
+                "dinner"
+            ]
+
+        },
+        {
+            "id": 3,
+            "title": "Pozole",
+            "country": "Mexico",
+            "description": "Pozole is a traditional soup or stew from Mexican cuisine. It is made from hominy with meat, and can be seasoned and garnished with shredded lettuce or cabbage, chile peppers, onion, garlic, radishes, avocado, salsa or limes.",
+            "ingredients": [
+                "1 and a half lbs pork shoulder",
+                "2 garlic cloves, peeled",
+                "1 tablespoon cumin powder",
+                "1 onion, chopped",
+                "2 garlic cloves, chopped",
+                "2 tablespoons oil",
+                "Half teaspoon black pepper",
+                "Half teaspoon cayenne",
+                "2 tablespoons california chili powder",
+                "1 tablespoon salt",
+                ".25 teaspoon oregano",
+                "4 cups canned white hominy, drained and rinsed",
+                "3 -5 cups pork broth, from cooking pork shoulder",
+                "1 cup canned diced green chilis (optional)",
+                "salt",
+                "2 whole fresh jalapenos, chopped (optional)",
+                "3 whole ancho chilies, seeded and stemmed (garnish) (optional)"
+            ],
+            "instructions": [
+                "Step 1: Prepare the onion, peel the garlic, chop the onion, peel and chop the 2 garlic cloves, chop the green chilies and jalapenos if you are using them and get the hominy drained and rinsed.", 
+                "Step 2: Boil ancho chilies in a separate small pot for the garnish.", 
+                "Step 3: Place the meat in a large saucepan and just cover with lightly salted water.",
+                "Step 4: Add 1/2 chopped onion, the 2 cloves peeled garlic, pepper, cumin, and oregano.", 
+                "Step 5: Bring to a boil over medium heat, skim off any foam that rises, reduce heat, cover and simmer for 45 minutes", 
+                "Step 6: Remove meat and broth, reserving both.", 
+                "Step 7: Saute the remaining chopped onion and garlic in oil until translucent.", 
+                "Step 8: Add the remaining spices, stir for a minute.", 
+                "Step 9: Cut the reserved pork into 1 inch cubes and add to the pan.",
+                "Step 10: Stir in the canned hominy, pork broth (if there is not enough pork broth, add chicken stock, I like to add it anyway for flavor, about 2-4 cups, eyeball the amount you like), green chilies and jalapenos (optional).", 
+                "Step 11: Cook at a simmer, covered, for 45 to 60 minutes until the meat and hominy are tender.",
+                "Step 12: If necessary, cook for up to an additional 60 minutes until the chilies and onions are well blended into the broth. Then serve."
+            ], 
+            "image": "public/images/Pozole.jpeg",
+            "category": "dinner"
+
+        }, 
+        {
+            "id": 4,
+            "title": "Ackee & Saltfish",
+            "country": "Jamaica",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": "breakfast",
+            "url": " "
+
+        }, 
+        {
+            "id": 5,
+            "title": "Pho",
+            "country": "Vietnam",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 6,
+            "title": "Callaloo Crabs Soup",
+            "country": "Trinidad and Tobago",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": "lunch ",
+            "url": " "
+
+        }, 
+        {
+            "id": 7,
+            "title": "La Bandera",
+            "country": "The Dominican Republic",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 8,
+            "title": "Medialunas",
+            "country": "Argentina",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 9,
+            "title": "Shakshuka",
+            "country": "Israel",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 10,
+            "title": "Baklava",
+            "country": "Turkey",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 11,
+            "title": "Risotto",
+            "country": "Italy",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 12,
+            "title": "Paella Valenciana",
+            "country": "Spain",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 13,
+            "title": "Moussaka",
+            "country": "Greece",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 14,
+            "title": "Plato Tipico",
+            "country": "Honduras",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 15,
+            "title": "Nihari",
+            "country": "Pakistan",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 16,
+            "title": "Khicdi",
+            "country": "India",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 17,
+            "title": "Pot-Au-Feu",
+            "country": "France",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 18,
+            "title": "Belgian Waffle",
+            "country": "Belgium",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": "snack",
+            "url": " "
+
+        }, 
+        {
+            "id": 19,
+            "title": "Austrian Potato Salad",
+            "country": "Austria",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }, 
+        {
+            "id": 20,
+            "title": "Cheeseburger",
+            "country": "America",
+            "description": " ",
+            "ingredients": [
+                "",
+                ""
+            ],
+            "instructions": [
+                "Step 1: "
+            ], 
+            "image": " ",
+            "category": " ",
+            "url": " "
+
+        }  
+
+    ]
+}
