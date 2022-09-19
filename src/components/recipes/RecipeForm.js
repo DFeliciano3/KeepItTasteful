@@ -2,7 +2,7 @@ import React from 'react'
 
 function RecipeForm() {
   return (
-    <div>
+    <div className='recipeForm'>
         RecipesForm
     </div>
   )
