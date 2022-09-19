@@ -161,7 +161,17 @@
                 "4 tablespoon sugar - divided between the two pots"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Blanch the bones. This step is SO IMPORTANT. If you want a clear, beautiful pho broth, blanch your bones. Do this by dividing the bones between two large pots or stockpots. Cover with cold water. Bring to a boil over high heat and simmer for 15-20 minutes. Drain and rinse the bones with water.", 
+                "Step 2: Roast the bones and the vegetables (optional). Preheat the oven to 450 degrees F. Transfer the bones, onion, garlic, and ginger to the roasting pans or rimmed baking sheets (you'll probably need two). Do not pile them all on top of each other. Roast for 30 minutes before gently tossing the bones, and roasting for an additional 15-30 minutes more (for a total of 45-60 minutes).", 
+                "Step 3: Toast the spices. As the bones are roasting, add all of your spices (the star anise, cinnamon, cloves, cardamom pods, coriander seeds, and fennel seeds) to a large, dry skillet over low heat. Toast the spices, stirring often to prevent burning, until fragrant, approximately 5 minutes. Divide the spices in half. Cut cheesecloth into two small square pieces (approximately 5-inches by 5-inches) each. Transfer the divided spices to the center of each square. Gather at the top and secure with kitchen twine.", 
+                "Step 4: Transfer the roasted bones and veggies back to the stockpots. Making sure to wash the pots after the bones were blanched and drained. Transfer and divide the roasted bones, onion, garlic, and ginger back to the stockpots. Scrape up any remaining bits and juices left in the roasting pan using a metal spatula and a little water, if needed. Add to the pot with the bones (don't worry, all those brown bits are FLAVOR!).", 
+                "Step 5: Bring to a boil. With the bones, spice sachets (one per pot), onion, garlic, and ginger divided between the two pots, fill each pot with approximately 12 cups water (or until bones are fully submerged), 1/3 cup fish sauce and 2 tablespoons of sugar. Bring to a boil.", 
+                "Step 6: Simmer the bones. Immediately reduce heat to low and simmer, with the lid slightly ajar, skimming any foam or excess fat, occasionally (if you blanched your bones, you shouldn't see much foam). Simmer for at least 6-12 hours, ideally 24 hours (do not leave the stove running overnight. Simply cool and store in the refrigerator and continue to simmer the next day). Add more water if needed to make sure the bones stay submerged.",
+                "Step 7: Strain the broth. Once the bones have simmered and your hot broth is ready, strain it through a fine-mesh strainer or colander into a clean pot. This separates the pretty, clear broth from the bones and spices.",
+                "Step 8: Season to taste. Add additional salt (you'll probably need a little), soy sauce, fish sauce, sugar or rock sugar (found at Asian markets), to taste. Set aside the broth to cool (if you're not using right away) and reserve the bones.",
+                "Step 9: Don't forget about the meat. I can almost guarantee that there is a TON of delicious meat waiting to be picked from the bones. Don't let it go to waste! Discard the meat-free bones, herbs, and other bits that were used to make the broth, but save the meat and add to sandwiches, wraps, salads, or back to your broth.", 
+                "Step 10: Skim the fat from the top (optional). Add a couple of handfuls of ice to your broth to expedite cooling and cover your pot with a lid. Transfer the broth to the refrigerator and allow the broth to cool fully (this will take upwards of 6 hours or overnight). The result will be a hard, thick layer of fat on the top and a bottom layer that is your pho broth (which should look like gelatinous brown jello). If desired use a fork to scoop off the top layer of fat."
+
             ], 
             "image": "public/images/Pho.jpeg",
             "category": "breakfast"
@@ -171,80 +181,252 @@
             "id": 6,
             "title": "Callaloo Crabs Soup",
             "country": "Trinidad and Tobago",
-            "description": " ",
+            "description": "Callaloo, similar to the Antiguan pepperpot, is a cook up of a combination of vegetables and meats. The dark green soupy concoction is well seasoned and is a staple of Trinis everywhere.",
             "ingredients": [
-                "",
-                ""
+                "18 taro leaves",
+                "12 pods okra, finely chopped",
+                "1 large onion, chopped ",
+                "4 sprigs fresh thyme",
+                "6 cloves garlic, crushed",
+                "4 ounces salted pig's tail (Optional)",
+                "1/2 cup peeled, cubed pumpkin",
+                " 1 cup water",
+                "1 habanero pepper",
+                "3 cups coconut milk",
+                " 4 blue crabs, cleaned and chopped",
+                "salt to taste",
+                "4 green onions chopped"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Clean taro leaves by removing skin from stalks and tip from center rib. Rinse and cut into bite-sized pieces.",
+                "Step 2: Place taro leaves, okra, onion, thyme, garlic, salted pig's tail, pumpkin, water, habanero pepper, and coconut milk into a large pot. Cover and simmer over low heat for 30 minutes.",
+                "Step 3: Add crab to the pot, being careful not to puncture habanero pepper. Cover and continue to simmer for 30 minutes. Remove habanero; season with salt.",
+                "Step 4: Purée soup using an immersion blender until smooth. You could also purée in small batches using a blender.",
+                "Step 5: Serve over rice; garnish with green onions."
             ], 
             "image": "public/images/CallalooCrabsSoup.jpeg",
-            "category": "lunch "
+            "category": "lunch"
 
         }, 
         {
             "id": 7,
             "title": "La Bandera",
             "country": "The Dominican Republic",
-            "description": " ",
+            "description": "La Bandera is the flagship of Dominican traditional food, a.k.a. la comida or el almuerzo, or even el plato del día, consists of rice, beans, and meat.",
             "ingredients": [
-                "",
-                ""
+                {
+                    "rice": [
+                        "5 tablespoons vegetable oil",
+                        "1¼ teaspoon salt",
+                        "4 cups rice"
+                    ]                
+                },
+                {
+                    "beans": [
+                        "2 cups dry beans, (pinto, cranberry, or red kidney beans",
+                        "1 tablespoon olive oil",
+                        "1 oregano (dry, ground)",
+                        "1 bell pepper, chopped",
+                        "1 small red onion, cut into four quarters",
+                        "2 cloves garlic, crushed",
+                        "1 cup diced auyama (kabocha squash), (West Indies pumpkin)",
+                        "1 cup tomato sauce",
+                        "leaves from a celery stalk, chopped (optional)",
+                        "4 sprigs thyme, (optional)",
+                        "½ teaspoon chopped fresh cilantro",
+                        "1 teaspoon salt, (or more, to taste)"
+
+                    ]
+                },
+                {
+                    "chicken": [
+                        "2 lbs chicken, [0.9 kg] cut into small pieces",
+                        "2 limes, cut into halves",
+                        "¼ teaspoon oregano (dry, ground)",
+                        "1 small red onion, chopped into fine strips or eighths",
+                        "½ cup chopped celery, (optional)",
+                        "1 teaspoon salt, (more may be necessary)",
+                        "½ teaspoon mashed garlic",
+                        "2 tablespoons vegetable oil, (corn, canola or peanut)",
+                        "1 teaspoon sugar (white, granulated)",
+                        "2 cups water",
+                        "4 plum tomato, cut into quarters",
+                        "2 green bell, or cubanela (cubanelle) peppers",
+                        "¼ cup pitted green olives, cut into halves (optional)",
+                        "1 cup tomato sauce",
+                        "Bunch fresh coriander leaves",
+                        "¼ teaspoon pepper (freshly-cracked, or ground)"
+
+                    ]
+                }, 
+                {
+                    "salad": [
+                        "2 tomato, diced or sliced",
+                        "½ lettuce, (or ¼ cabbage chopped finely)",
+                        "1 cucumber, sliced or diced",
+                        "1 bell pepper, cut into thin strips",
+                        "1 small red onion, cut into thin slices (optional)",
+                        "1 beetroot, boiled and sliced (optional)",
+                        "3 tablespoons fruit vinegar",
+                        "3 tablespoons olive oil",
+                        "1 teaspoon salt, (or more, to taste",
+                        "3 tablespoons apple cider vinegar (or pineapple vinegar)",
+                        "6 tablespoons olive oil",
+                        "1 teaspoon salt (or more, to taste)"
+
+                    ]
+                }
+               
             ],
             "instructions": [
-                "Step 1: "
+                {
+                    "rice": [
+                        "Step 1: In a medium aluminum pot (Amazon affiliate link) (minimum 2.5 liters [0.5 gal] capacity) heat 3 tablespoons of oil over medium heat, add the salt. When the oil is a little hot add 6 cups [1.4 liters] of water, taking care not to splash.",
+                        "Step 2: When the water reaches boiling point, add the rice and cook, stirring regularly to prevent it from sticking to the bottom.",
+                        "Step 3: When the water has evaporated, cover with the lid and cook over very low heat (but enough to generate steam) for 15 minutes. Remove the lid, stir, add the remaining oil and cover again. This oil will help the rice to shine, and the concón will be crispier. In 5 more minutes taste the rice, it should be firm but soft inside. If necessary cover again and leave for another 5 minutes on low heat.",
+                        "Step 4: As soon as the rice is ready, remove it from the pot and place it in a serving dish (this prevents the concón from getting soggy), and fluff it with a fork. Scrape off the concón (rice stuck to the bottom) and serve separately."
+                    ]
+                }, 
+                {
+                    "beans": [
+                        "Step 1: If you are using dry beans Soak the beans overnight. Remove the beans from the soaking water and boil in fresh water until they are very soft (may take up to an hour, or about 20 minutes in a pressure cooker.",
+                        "Step 2: Separate the beans from the boiling water. Set both aside.",
+                        "Step 3: In a sauce, pot, or caldero, heat the oil over medium-high heat. Add oregano, bell pepper, onion, garlic, auyama, tomato sauce, celery, thyme and cilantro. Cook and stir for half a minute. Add the beans and simmer for two minutes.",
+                        "Step 4: Pour in 4 cups of the water in which the beans boiled (complete with fresh water if necessary). Once it reaches a rolling boil, lightly mashed the beans with a potato masher to break them out of the skin and making creamier habichuelas. Lower temperature to medium heat and cook until it reaches a creamy consistency. Season with salt to taste.",
+                        "Step 5: Remove the chunks of onion, as well as any stray twigs or large bits of herbs if you used fresh herbs.",
+                        "Step 6: Remove from the heat and serve."
+                    ]
+                },
+                {
+                    "chicken": [
+                        "Step 1: Cut the chicken into small pieces and place it in a bowl that has a lid. Season the chicken pieces with lime juice. ",
+                        "Step 1: Mix the chicken, oregano, onion, celery, salt, and garlic. Marinate for 30 minutes. ",
+                        "Step 1: In a pot heat the oil over medium heat, add sugar, and wait until it browns. Add the chicken (reserve all the other things in the marinade for use in a later step) and cook and stir until the meat is light brown.",
+                        "Step 1: Add 2 tablespoons of water. Cover and simmer over medium heat for 15 minutes, stirring and adding water by the tablespoon as it becomes necessary to prevent it from burning.",
+                        "Step 1: Stir in the vegetables that you had set aside from marinating the chicken, plus cubanelle pepper, tomatoes, and olives. Cover, and simmer until the vegetables are cooked through, adding water by the tablespoon and stirring as it becomes necessary. ",
+                        "Step 1: Add the tomato sauce and half a cup of water, and simmer over low heat to produce a light sauce. The vegetables will be very soft, the sauce is a bit thick, and the chicken fall-off-the-bone tender Add fresh cilantro. Season with salt and pepper to taste.",
+                        "Step 1: Serve"
+
+                    ]
+                }, 
+                {
+                    "salad": [
+                        "Step 1: Arrange: Sprinkle the sliced beet with a pinch of sugar. Arrange the vegetables on a platter, including the beetroot.", 
+                        "Step 2: Mixing vinaigrette: Combine vinegar, and olive oil. Add salt to taste and stir to combine.", 
+                        "Step 3: Serving: Serve salad alongside the vinaigrette. If it will be served later, cover and chill."
+
+                    ]
+                }
             ], 
             "image": "public/images/LaBandera.jpeg",
-            "category": " "
+            "category": [
+                "lunch"
+            ]
 
         }, 
         {
             "id": 8,
             "title": "Medialunas",
             "country": "Argentina",
-            "description": " ",
+            "description": "Medialunas is the Argentinian take on the traditional French croissant. The word literally translates to half a moon (explaining the crescent shape). The yeast infused dough is intricately layered with butter with a technique called laminating and glazed with sugar. Unlike a regular croissant, Medialunas are smaller and sweeter. It is a staple pastry dish and a very popular breakfast in Argentina, so much so that it is challenging to find a panadería (bakery) in Buenos Aires that is not selling it. Medialunas is often served with Café con leche (coffee with milk) or yerba mate tea.",
             "ingredients": [
-                "",
-                ""
+                "Heated milk - 2 cups",
+                "Salt - 1 tbsp.",
+                "Active dry yeast - 3 tbsp.",
+                "Sugar - 1/2 cup",
+                "Flour - 5 cups",
+                "Cold butter - 5 sticks",
+                "Vanilla extract - few drops (optional)",
+                "Egg wash",
+                "Egg yolk- 1",
+                "Milk - 1 tbsp.",
+                "Sugar Glaze",
+                "Water - 1 cup",
+                "Sugar - 1/2 cup"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Add and stir sugar and yeast in warm milk.",
+                "Step 2: Mix well with a whisk, stirring salt, sugar, egg yolk and flour until the dough starts to come together. Knead until sticky but smooth.",
+                "Step 3:  Place the dough in a bowl, coat with vegetable oil and let it rest for 30 minutes.",
+                "Step 4: Place sticks of butter between two layers of cling film, pound with a rolling pin until a quarter of an inch thick and quiet square. Refrigerate for 10 minutes.",
+                "Step 5: Roll the dough into a rectangle, 1/2 an inch thick, on a lightly floured surface.",
+                "Step 6: Remove the plastic from the butter. Place it on one half of the rectangle while folding the other half of the dough over the butter. Pinch the sides to seal. Roll the dough out in a rectangle again, keeping the butter inside.",
+                "Step 7: With the short side facing your body, fold the top third of the dough down, then refrigerate the plastic wrapped dough again until chilled.",
+                "Step 8: Unfold and roll out the chilled dough again in a rectangular shape. Cut lengthwise, creating two long rectangles. Stack one over the other, aligning the edges.",
+                "Step 9: Cut the dough in triangles. Placing each one on the surface, roll from base to tip to form a croissant shape. While these rest for 30 minutes on a parchment lined in baking sheets, heat the oven at 400 degrees Fahrenheit.",
+                "Step 10: Add 1 beaten egg and 1 tablespoon milk for egg wash. Brush it over the pastries and bake until puffed and golden for 20-25 minutes.",
+                "Step 11: Heat 1/2 cup sugar and 1 cup water. Stir until it thickens and add a few drops of vanilla extract(optional) to make the sugar glaze.",
+                "Step 12: Brush the top of cooled medialunas with sugar glaze and serve."
             ], 
             "image": "public/images/Medialunas.jpeg",
-            "category": " "
+            "category": "breakfast"
 
         }, 
         {
             "id": 9,
             "title": "Shakshuka",
-            "country": "Israel",
-            "description": " ",
+            "country": [
+                "Israel",
+                "Middle East", 
+                "North Africa"
+            ],
+            "description": "An easy, healthy breakfast (or any time of day) recipe in Israel and other parts of the Middle East and North Africa. It's a simple combination of simmering tomatoes, onions, garlic, spices and gently poached eggs.",
             "ingredients": [
-                "",
-                ""
+                "2 tablespoons olive oil",
+                "1 medium onion, diced",
+                "1 red bell pepper, seeded and diced",
+                "4 garlic cloves, finely chopped",
+                "2 teaspoon paprika",
+                "1 teaspoon cumin",
+                "¼ teaspoon chili powder",
+                "1 28-ounce can whole peeled tomatoes",
+                "6 large eggs",
+                "salt and pepper, to taste",
+                "1 small bunch fresh cilantro, chopped",
+                "1 small bunch fresh parsley, chopped"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Heat olive oil in a large sauté pan on medium heat. Add the chopped bell pepper and onion and cook for 5 minutes or until the onion becomes translucent.", 
+                "Step 2: Heat olive oil in a large sauté pan on medium heat. Add the chopped bell pepper and onion and cook for 5 minutes or until the onion becomes translucent.",
+                "Step 3: Pour the can of tomatoes and juice into the pan and break down the tomatoes using a large spoon. Season with salt and pepper and bring the sauce to a simmer.", 
+                "Step 4: Use your large spoon to make small wells in the sauce and crack the eggs into each well. Cover the pan and cook for 5-8 minutes, or until the eggs are done to your liking.",
+                "Step 5: Garnish with chopped cilantro and parsley."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/Shakshuka.jpeg",
+            "category": [
+                "breakfast", 
+                "lunch",
+                "dinner"
+            ]
 
         }, 
         {
             "id": 10,
             "title": "Baklava",
             "country": "Turkey",
-            "description": " ",
+            "description": "Turkish Baklava, also known as Fistikli Baklava or Pistachio Baklava, is a deliciously rich, buttery, sweet dessert made from phyllo dough, finely ground pistachios, butter, and a syrup made from sugar, water and lemon juice.",
             "ingredients": [
-                "",
-                ""
+                "2 packages of phyllo dough, each containing 20-22 sheets of dough, thawed",
+                "1 1/2 cups (250g) unsalted clarified butter",
+                "3 cups (360g) pistachios, plus extra for sprinkling",
+                "2 tbsp sugar",
+                "2 1/2 cups (600 ml) cold water",
+                "3 1/2 cups (700g) sugar", 
+                "2 tbsp lemon juice",
+                "pistachio nuts, finely chopped (optional)"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: To make this baklava when it comes to equipment, you will need a 14x18-inch (35x45 cm) baking pan, a food processor, a sharp knife, a plant mister, and a wide pastry brush or paper towels.", 
+                "Step 2: When ready to start, first preheat the oven to 375°F (190°C) and, since it needs time to cool, proceed to make the syrup. In a medium-sized saucepan combine water and sugar, bring to a boil, and let it boil for the next five minutes. Lower the heat and simmer uncovered for 15-30 minutes or until light yellow. At the end stir in the lemon juice and leave it to cool.",
+                "Step 3: For the filling, grind in the food processor nuts and sugar until medium to finely ground, but do make sure they are not ground too fine.",
+                "Step 4: Brush the inside of the pan with clarified butter and place the first sheet of phyllo dough in the pan. If the phyllo dough is too big to fit the pan, just trim it to fit. Now, using either a wide pastry brush or a paper towel, lightly brush the top of that first sheet. Continue layering and buttering the remaining dough from the one packet.",
+                "Step 5: Next, coat the layered dough with the nut filling and using a plant mister, to help the next layer of dough stick to the nuts better, sprinkle the filling with water. Cover the filling with the layer of phyllo dough from the second package, brush with clarified butter, and continue repeating this until you're out of phyllo sheets.",
+                "Step 6: o finish, trim any excess edges and coat the top and edges with clarified butter, then with a sharp knife that's been previously dipped in hot water, cut the dough, only halfway through the dough, to make 48 pieces, 4 cuts lengthwise and 12 cuts crosswise.",
+                "Step 7: Place the prepared baklava in the oven and bake for 30 minutes, then lower the heat to 325°F (160°C) and bake for yet another 30 minutes or until the top catches a lightly golden color. Remove the baked baklava from the oven and let it cool at room temperature for ten minutes, then recut along the lines, but this time cut all the way to the bottom. Pour the previously prepared syrup evenly over the cut lines, then if desired, sprinkle the baklava with chopped pistachios and leave to cool. ",
+                "Step 8: Baklava can be stored for up to a week if kept in a cool and dry space. When serving, baklava should be at room temperature."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/Baklava.jpeg",
+            "category": "dessert"
 
         }, 
         {
@@ -253,125 +435,365 @@
             "country": "Italy",
             "description": " ",
             "ingredients": [
-                "",
-                ""
+                "5 1/2 cups chicken stock, preferably homemader",
+                "2 tablespoons extra-virgin olive oilr",
+                "1 small onion, finely choppedr",
+                "Kosher saltr",
+                "Freshly ground black pepperr",
+                "1 1/2 cups arborio rice (10 ounces)",
+                "Pinch of saffron threadsr",
+                "1/2 cup dry white winer",
+                "1/2 cup freshly grated Parmigiano-Reggiano cheeser",
+                "1 tablespoon unsalted butter",
+                "2 tablespoons chopped flat-leaf parsley"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: In a medium saucepan, bring the chicken stock to a simmer; keep warm. In a large saucepan, heat the olive oil. Add the onion, season with salt and pepper, and cook over moderate heat, stirring, until softened, about 5 minutes. Add the rice and cook for 1 minute, stirring to thoroughly coat.",
+                "Step 2: Crumble the saffron into the wine and add it to the rice. Cook, stirring, until the wine is absorbed. Add 1 cup of the warm stock and cook over moderate heat, stirring constantly, until nearly absorbed. Continue adding the stock 1/2 cup at a time, stirring constantly, until it is nearly absorbed between additions.",
+                "Step 3: The risotto is done when the rice is al dente and suspended in a thick, creamy sauce, about 20 minutes total. Season the risotto with salt and pepper. Stir in the cheese, butter, and parsley and serve immediately."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/Risotto.jpeg",
+            "category": "lunch"
 
         }, 
         {
             "id": 12,
             "title": "Paella Valenciana",
             "country": "Spain",
-            "description": " ",
+            "description": "A dish traditionally cooked over an open fire of dried vines and orange-tree branches. Typical ingredients include meats like rabbit, snails, chicken, pork, and sometimes duck that are combined with several flat bean varieties like tavella and ferraúra, as well as garrofó, a dried white bean.",
             "ingredients": [
-                "",
-                ""
+                "360g (12.7 oz) paella rice, arroz bomba or arroz redondo",
+                "400g (14.1 oz) bone-in chicken meat, in pieces of approx. 4 x 4 cm (1.5 x 1.5 inches)",
+                "400g (14.1 oz) bone-in rabbit meat, in pieces of approx. 4 x 4 cm (1.5 x 1.5 inches)",
+                "200g (7 oz) fresh Spanish garrofón beans or butter beans",
+                "300g (10.6 oz) flat green (ferradura) beans, in pieces of approx. 4 cm (1.5 inch)",
+                "1 large tomato, grated",
+                "approx. 20 saffron strings, soaked in a bit of hot water",
+                "1 sprig of rosemary",
+                "1800 ml (7 1/2 cups) water",
+                "100 ml (1/3 cup + 4 tsp) extra virgin olive oil",
+                "salt, as needed, to taste"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Place the paellera over a medium flame and fry the meats in olive oil for approximately 20 minutes, until golden brown — season with some salt during the frying process. Next, add the fresh beans and lightly brown them.",
+                "Step 2: Push the sautéed ingredient to the sides of the paellera and add the grated tomato in the center of the skillet. Sautée the tomato until it becomes dark red, then combine it with the rest of the ingredients already in the pan.",
+                "Step 3: Stir in the saffron and the liquid it was soaking in. Pour the water in, throw in a rosemary sprig, and bring to a boil. Measure the amount of liquid in the paellera, using a spoon or a ruler — season with some salt.",
+                "Step 4: When a bit less than half of the liquid has evaporated, add the rice. Distribute the rice and the other ingredients evenly across the pan. Take out the rosemary sprig.",
+                "Step 5: Cook the paella over a high flame for approximately 8 minutes, then lower the heat, and cook for another 8 minutes, or until the liquid evaporates. Now, turn on the heat again to make the soccarat. When you hear and smell the toasting of the rice, remove the skillet from the heat.",
+                "Step 6: Let it settle for about 5 minutes before serving."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/PaellaValenciana.jpeg",
+            "category": [
+                "lunch",
+                "dinner"
+            ]
 
         }, 
         {
             "id": 13,
             "title": "Moussaka",
             "country": "Greece",
-            "description": " ",
+            "description": "A traditional Greek eggplant casserole made with baked or pan fried eggplants (aubergines) and potatoes, a rich, tomatoey beef or lamb mince sauce and topped off with a deliciously creamy bechamel sauce.",
             "ingredients": [
-                "",
-                ""
+                "6 eggplants",
+                "5 potatoes (optional)",
+                "vegetable oil (for frying the eggplants)",
+                "750g beef or lamb mince (26 oz)",
+                "2 red onions (chopped)",
+                "2 cloves of garlic (chopped)",
+                "1 tin chopped tomatoes (400g / 14oz)",
+                "2 tbsp tomato paste",
+                "1 teaspoon sugar",
+                "1 glass of red wine",
+                "Pinch of sea salt and freshly ground black pepper",
+                "1 bay leaf",
+                "A pinch of cinnamon or one cinnamon stick",
+                "1/4 of a cup olive oil", 
+                "900ml milk (31 fl.oz)",
+                "120g butter (4 oz)",
+                "120g flour (4 oz)",
+                "a pinch of nutmeg",
+                "2 egg yolks",
+                "100g Parmigiano-Reggiano or Kefalotyri or your favourite hard cheese (3.5oz)",
+                "salt to taste"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: To prepare this Greek moussaka recipe, begin by preparing the eggplants. Remove the stalks from the eggplants and cut them into slices, 1 cm thick. Season with salt and place in a colander for about half an hour.", 
+                "Step 2: Rinse the eggplants with plenty of water and squeeze with your hands, to get rid of the excessive water. Pat them dry and fry in plenty of oil, until nicely colored. Place the fried eggplants on some paper, in order to absorb the oil. (For a lighter version of the traditional Greek moussaka try drizzling the aubergines with some olive oil and bake them for 20 minutes instead of frying them). Set aside when done.", 
+                "Step 3: If you are adding potatoes to your moussaka, now its time to slice them into 0.5cm, half a finger width slices. Fry them or bake them in the same way as the eggplants. Season with some salt and set them aside when done.", 
+                "Step 4: Prepare the meat sauce for the moussaka. Heat a large pan to medium-high heat and add the olive oil. Stir in the chopped onions and sauté, until softened and slightly colored. Stir in the mince breaking it up with a wooden spoon and sauté. When it starts to brown, add the the garlic and tomato paste and sauté until the garlic starts to soften. Pour in the red wine to deglaze the meat juices and wait to evaporate. Add the tinned tomatoes, the sugar, a pinch of cinnamon, 1 bay leaf and a good pinch of salt and pepper. Bring to the boil then turn the heat down and simmer with the lid on for about 30 minutes or until most of the juices have evaporated. Set aside when done.", 
+                "Step 5: Prepare the béchamel sauce for the moussaka. Use a large pan to melt the butter over low-medium heat. Add the flour whisking continuously to make a paste. Add warmed milk in a steady stream; keep whisking in order to prevent your sauce from getting lumpy. If the sauce still needs to thicken, boil over low heat while continuing to stir. Its consistency should resemble a thick cream.", 
+                "Step 6: Remove the béchamel pan from the stove and stir in the egg yolks, salt, pepper, a pinch of nutmeg and the most of the grated cheese. Reserve some cheese to sprinkle on top! Whisk quickly, in order to prevent the eggs from turning an omelette!  Season with salt to taste. Take one spoon full of béchamel and stir it in the meat sauce. Set the béchamel sauce aside.", 
+                "Step 7: Now its time to assemble the moussaka. For this moussaka recipe you will need a large baking dish, approx. 20x30cm / 8x12inch and 8cm/3 inch deep). Butter the bottom and sides of the pan and layer the potatoes first (if you`re using them), then half the eggplants. Pour in all of the meat sauce and spread it out evenly. Add a second layer of eggplants, top with all of the béchamel sauce and smooth out with a spatula.", 
+                "Step 8: Sprinkle with the remaining grated cheese. Preheat you oven at 180C/350F and bake your musaka for about 60 minutes or until its crust turns light golden brown. Even though it will be really hard to do so, you should wait for the moussaka to cool down and be just warm to the touch before cutting into pieces. This will prevent the béchamel sauce from pouring out when you`re cutting your pieces.", 
+                "Step 9: Serve the Moussaka with a refreshing Traditional Greek Salad and enjoy over a glass of wine!"
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/Moussaka.jpeg",
+            "category": [
+                "lunch",
+                "dinner"
+            ]
 
         }, 
         {
             "id": 14,
             "title": "Plato Tipico",
             "country": "Honduras",
-            "description": " ",
+            "description": "Grilled meat and pork sausages, stewed beans, chismol, fried plantain, and rice. These are served with sour cream, white fresh farmer`s cheese, avocado and corn tortillas.",
             "ingredients": [
-                "",
-                ""
+                {
+                    "meats": [
+                        "450 g beef sirloin",
+                        "450 g pork sirloin",
+                        "4 chorizo sausages or similar pork sausages",
+                        "½ tsp salt",
+                        "½ tsp black pepper",
+                        " 2 cloves garlic",
+                        " 2 tbsp olive oil",
+                        "3 tbsp vinegar"
+                    ]
+
+                },
+                {
+                    "beans": [
+                        "2 cans kidney beans",
+                        "1 red onion",
+                        "3 bell peppers mix green, yellow and red",
+                        "2 cloves garlic",
+                        "2 tbsp olive oil",
+                        "1 tsp oregano",
+                        "¼ tsp salt",
+                        "¼ tsp white pepper",
+                        " 1 pinch cayenne pepper",
+                        "¼ tsp thyme",
+                        " ¼ tsp paprika",
+                        " 250 ml ketchup",
+                        "250 ml water"
+                    ]
+                },
+                {
+                    "chismol": [
+                        "2 large tomatoes",
+                        "1 large green bell pepper",
+                        "1 red onion",
+                        "3 sprigs coriander",
+                        "½ tsp salt",
+                        "½ tsp black pepper",
+                        "¼ tsp cumin",
+                        "2 tbsp lemon juice "
+                    ]
+                },
+                {
+                    "fried plantains": [
+                        "2 plantains ripe",
+                        "4 tbsp vegetable oil"
+                    ]
+                },
+                {
+                    "rice": [
+                        "200 g white rice",
+                        "1 tbsp chopped green bell pepper",
+                        "1 tbsp red onion",
+                        "1 clove garlic",
+                        "½ tsp salt",
+                        "1 tbsp vegetable oil",
+                        "500 ml water"
+                    ]
+                }
             ],
             "instructions": [
-                "Step 1: "
+                {
+                    "meats": [
+                        "Step 1: Cut the meat (beef and pork) into long strips and place in bowl.",
+                        "Step 2: Mix in the salt, pepper, mashed garlic, olive oil, and vinegar. Marinate for at least one hour prior to grilling.",
+                        "Step 3: When the barbecue ready, place the strips of meat and the four sausages over the grill and cook until desired doneness."
+                    ]
+
+                },
+                {
+                    "beans": [
+                        "Step 1: Cut onion and bell peppers into thin slices.",
+                        "Step 2: In a pot, heat the olive oil over medium-high heat and add the sliced onion, bell peppers and mashed garlic cloves. Sauté for about 3 minutes or until tender.", 
+                        "Step 3: Add the two cans of beans. Stir and lower to medium heat.",
+                        "Step 4: Add spices and ketchup. Mix thoroughly. Add water.",
+                        "Step 5: Lower the heat to medium-low and simmer for 15 minutes."
+                    ]
+                },
+                {
+                    "chismol": [
+                        "Step 1: Mix vegetables, season and add the lemon juice. ",
+                        "Step 2: Peel the plantain and cut it in half. Then cut each half lengthwise into ½ cm slices (about 4 slices from each half).",
+                        "Step 3: In a frying pan, heat vegetable oil over medium-heat. Fry each slice until each side is slightly browned (about 3 minutes on each side). Remove from pan and keep warm."
+                    ]
+                },
+                {
+                    "rice": [
+                        "Step 1: In a pan, heat vegetable oil over medium heat and add the diced green bell pepper, onion, and garlic. Sauté for 2 minutes.",
+                        "Step 2: Add the washed and drained rice and sea salt, and continue stirring for 2 more minutes. Then, earefully add the hot water.",
+                        "Step 3: When the water starts to boil, lower heat to medium-low and cover. Simmer until all water has been absorbed and the rice is cooked, (about 20 minutes).",
+                        "Step 4: When all the components of the dish are ready, arrange them in 4 plates."
+                    ]
+                }
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/platotypico.jpeg",
+            "category": "dinner"
 
         }, 
         {
             "id": 15,
             "title": "Nihari",
             "country": "Pakistan",
-            "description": " ",
+            "description": "Nihari is a rich, slow-cooked meat stew flavored with spices and thickened with atta, or Pakistani & Indian-style durum whole wheat flour. Pakistani versions of Nihari are typically made with beef, but Nihari can be made with lamb, goat meat, or chicken.",
             "ingredients": [
-                "",
-                ""
+                "1/2 piece of a small star anise",
+                "1-2 small bay leaves",
+                "1 inch piece cinnamon stick",
+                "2-3 whole cloves, ground into a powder using a mortar and pestle",
+                "2-3 green cardamom pods, seeds ground into a powder using a mortar and pestle",
+                "1/2 tsp fennel seeds, ground into a powder using a mortar and pestle",
+                "1/2 tsp paprika powder",
+                "1/2 tsp coriander powder",
+                "1/2 tsp cumin powder",
+                "1/4 tsp turmeric",
+                "1/4-1/2 tsp red chilli powder or cayenne",
+                "1/4 tsp crushed red chilli flakes",
+                "1/4 tsp black pepper powder",
+                "1/8 tsp garlic powder (optional)",
+                "Pinch nutmeg",
+                "1 tbsp Nihari Masala",
+                "1/3 cup canola or other neutral oil",
+                "1 tbsp ghee, or butter",
+                "1 large (250-270 g) onion, thinly sliced",
+                "5-6 garlic cloves, crushed",
+                "3/4 inch piece ginger, crushed",
+                "1 1/4 tsp salt",
+                "1/4 cup (35 g) durum atta flour, (Or sub dry roasted brown rice flour or sorghum flour for GF)",
+                "9 cups water for stovetop, 3 1/2 cups for slow cooker",
+                "1 lb (454 g) boneless beef shank meat, 2-inch cubed, or sub beef stew meat, 1 1/2 inch cubed",
+                "1 tsp garam masala",
+                "crispy fried onions",
+                "1 inch piece ginger, julienned",
+                "1 lemon, cut into wedges",
+                "1/4 bunch fresh cilantro, chopped",
+                "1-2 green chili peppers, chopped"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Heat oil and ghee in a heavy-bottomed Dutch oven or pot over medium-high heat. Add the whole spices and onion, and sauté until the onion turns golden, about 10 minutes.", 
+                "Step 2: If needed, deglaze with 2 tbsp of water. Once the water dries up, add the garlic and ginger and continue to sauté for 30 seconds. Add beef and sauté for about 5 minutes, or until it changes color.",
+                "Step 3: Lower the heat and add the powdered spices and salt and sauté for about 20 seconds. Immediately pour in the water and stir to mix.", 
+                "Step 4: Raise the heat to high and bring to a boil (cover with lid to make it boil quicker). Then lower the heat to low/low-medium so that the nihari is gently simmering. Cover and allow to cook for 6 hours for beef shank meat (or ~4 hours for stew meat). Turn off the heat. The meat should be tender enough that it breaks easily when pressed with a wooden spoon. Remove the whole spices, if desired.",
+                "Step 5: Take out a cup of the liquid of the Nihari onto a bowl or measuring cup. Let it cool a little by adding an ice cube to it. Place the atta in another small bowl. Bit by bit, whisk the Nihari liquid into the atta to form a smooth slurry (small clumps are okay). Slowly stir this slurry back in to the Nihari pot to prevent clumps. If the mixture is too thick, add (preferably boiling) water to reach desired consistency.", 
+                "Step 6: Raise the heat to high to bring to a simmer. Then lower the heat to low/low medium. Cover and allow the nihari to simmer for another 30-45 minutes. The consistency should be like a thick soup. Serve hot with the garnishing and naan or sheermal."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/Nihari.jpeg",
+            "category": "dinner"
 
         }, 
         {
             "id": 16,
             "title": "Khicdi",
             "country": "India",
-            "description": " ",
+            "description": "Khichdi is a healthy Indian dish made with rice and moong lentils. Various other ingredients like ghee (clarified butter), cumin seeds, ginger and asafoetida are optionally used depending on the preferences.",
             "ingredients": [
-                "",
-                ""
+                "1 to 2 tablespoons ghee (clarified butter) or oil",
+                "3/4 to 1 teaspoon cumin seeds",
+                "1 bay leaf or 1 sprig of curry leaves (optional)",
+                "3/4 to 1 teaspoon ginger grated or ginger paste (1 inch piece)",
+                "1/4 cup onion finely chopped (1 very small, optional)",
+                "1 green chili slit or 1/2 tsp red chili powder",
+                "1/2 cup tomatoes deseeded & fine chopped or pureed (1 medium)",
+                "1/4 teaspoon turmeric",
+                "1/3 teaspoon salt",
+                " 1/2 cup rice (any kind or quinoa, steel cut oats, millets)",
+                "1/2 cup moong dal (skinless petite yellow lentils) (or any other dal)",
+                "4 cups water",
+                "1 pinch asafoetida (hing) (optional)",
+                "1/2 tablespoon ghee for topping"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Add rice and moong dal to a pot. Rinse them at least thrice & drain water completely. If you do not have a cooker, then soak them for 30 to 40 mins. This will help them cook faster.",
+                "Step 2: Heat ghee in a pressure cooker or pot on a medium heat. Once the ghee is hot, add bay leaf (optional) and cumin seeds.",
+                "Step 3: Soon the seeds begin to splutter, then add ginger & saute until fragrant, for about 30 to 60 seconds & sprinkle hing.",
+                "Step 4: Add onions and green chilies. Saute them until the raw smell of onions goes away and they begin to turn golden.",
+                "Step 5: Next add tomatoes, carrots, beans, salt and turmeric. Saute for 3 to 4 mins.",
+                "Step 6: Then add drained daal and rice. Saute for 3 to 4 mins.",
+                "Step 7: Pour 4 cups water for porridge like consistency or 3 cups for mushy consistency.",
+                "Step 8: Stir well & taste the water. Add more salt if needed."
             ], 
-            "image": " ",
-            "category": " "
-
+            "image": "public/images/Khicdi.jpeg",
+            "category": [
+                "lunch",
+                "dinner"
+            ]
         }, 
         {
             "id": 17,
             "title": "Pot-Au-Feu",
             "country": "France",
-            "description": " ",
+            "description": "A classic French comfort dish is stewed meats with vegetables, but the difference is the dish can be served in at least two if not three ways: The marrow is removed from the bone and spread on toast as a starter, the broth is served as a soup, and the meat is plated with the vegetables.",
             "ingredients": [
-                "",
-                ""
+                "1 large onion, quartered",
+                "6 large leeks, white and pale green parts only, cut into 2 1/2-inch lengths",
+                "12 celery ribs, halved crosswise",
+                "6 medium carrots, peeled and halved crosswise",
+                "4 meaty beef shanks (about 3 pounds), 1 1/2 inches thick",
+                "One 3-pound beef rump roast or bottom round, tied",
+                "4 parsley sprigs",
+                "4 thyme sprigs",
+                "2 bay leaves",
+                "1 teaspoon whole black peppercorns",
+                "Kosher salt",
+                "Eight to ten 2-inch marrow bones (optional)",
+                "8 quarts water",
+                "6 medium parsnips, peeled and cut into 2-inch lengths",
+                "6 medium turnips, peeled and quartered",
+                "1 pound rutabagas, peeled and cut into eighths",
+                "1 1/2 pounds unpeeled small potatoes, about 1 1/2 inches, scrubbed",
+                "Freshly ground black pepper",
+                "Horseradish, whole-grain mustard and sour cream, for serving"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: In a large pot, combine the onion and half each of the leeks, celery and carrots. Set the beef shanks and rump roast on top of the vegetables. Wrap the parsley, thyme and bay leaves in a piece of moistened cheesecloth and tie into a bundle. Add the bundle to the pot along with the peppercorns and 1 tablespoon of kosher salt. Add 2 of the marrow bones and the water. Bring to a boil over high heat, then reduce the heat to low, cover partially and simmer, skimming occasionally, until the rump roast is very tender, about 2 1/2 hours.",
+                "Step 2: Transfer the shanks and roast to a large bowl and cover. Strain the broth and return it to the pot. Boil over high heat until reduced to 10 cups, about 45 minutes; skim off the fat.",
+                "Step 3: Add the remaining leeks, celery and carrots to the broth along with the parsnips, turnips and rutabagas. Cover and simmer over low heat until the vegetables are just tender, 30 minutes. Add the remaining 6 to 8 marrow bones and the potatoes. Cover and simmer until the potatoes are tender, 40 minutes.",
+               "Step 4: Untie the rump roast and cut it across the grain into 6 to 8 slices. Cut the shank meat into 2-inch chunks; add the meats to the pot and simmer until heated through. Season with salt and pepper. Ladle the broth into shallow bowls. Add the meats, marrow bones and vegetables and serve, passing horseradish, mustard and sour cream at the table."
             ], 
-            "image": " ",
-            "category": " "
+            "image": "public/images/potaufeu.jpeg",
+            "category": "dinner"
 
         }, 
         {
             "id": 18,
-            "title": "Belgian Waffle",
+            "title": "Liege Belgian Waffle",
             "country": "Belgium",
-            "description": " ",
+            "description": "Authentic Liege waffles are not made with a batter, but a yeast dough.They have a completely different texture than American Belgian waffles. Instead of eating them with a knife and fork, authentic Belgian waffles (from both Liege and Brussels) are usually eaten handheld. They are not solely for breakfast and are often eaten without a topping or sauce. One of the biggest differences is that Liege waffles have pieces of caramelized pearl sugar in them!",
             "ingredients": [
-                "",
-                ""
+                "500 g of flour",
+                "80 g sugar",
+                "2 tsp dry yeast",
+                "150 ml water",
+                "2 eggs",
+                "15 g butter (room temperature) plus",
+                "175 g butter, cut into pieces (then allow to sit at room temperature)",
+                "140 g of a cup Belgian Pearl Sugar"
+                
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: Place 2.4 cup flour plus the 80 grams of regular sugar in a mixing bowl. Set aside.",
+                "Step 2: Warm the water until it is lukewarm (not at all hot) then add the yeast (do not add the yeast when the water is too hot or it will kill it and the recipe will be ruined) and whisk until it has melted.",
+                "Step 3: Add the eggs and 15 g of butter to the flour and sugar mixture in the mixing bowl, then pour in the water and yeast mixture, whisking to combine all the ingredients.",
+                "Step 4: Continue stirring until a sticky dough is formed.",
+                "Step 5: Then add the 200 grams of flour to the top, along with the 175 grams of butter pieces. Cover (without mixing anything) and allow to rest for 20 to 25 minutes.",
+                "Step 6: With your hands, incorporate the butter and flour into the sticky dough until all the ingredients are well combined and the dough is no longer sticky (only add a little more flour if necessary).",
+                "Step 7: Place the dough onto a lightly floured surface and press into a 12 x 12 square shape, then sprinkle with the Belgian Pearl sugar.",
+                "Step 8:  Roll the dough from one end to the other, to form a large sausage shape.",
+                "Step 9: Cut into 100 gram pieces and form into ball shapes and set aside to rest for 15 minutes, covered with a slightly damp kitchen cloth.",
+                "Step 10: Heat the waffle iron.",
+                "Step 11: Place a ball of dough in the middle of the iron and cook it until it's golden brown and the sugar has caramelized.",
+                "Step 12: Carefully remove the waffle as the caramelized sugar will definitely give you a nasty burn (Try using a flat wooden utensil or wooden tongs).",
+                "Step 13: Serve as is, with a dusting of powdered sugar or melted chocolate (traditional serving ideas). These can be eaten the next day; just warm them a little first, or even put them in the toaster."
             ], 
-            "image": " ",
+            "image": "public/images/belgianwaffle.jpeg",
             "category": "snack"
 
         }, 
@@ -379,33 +801,57 @@
             "id": 19,
             "title": "Austrian Potato Salad",
             "country": "Austria",
-            "description": " ",
+            "description": " A great side dish to serve with roasts, BBQ, or grilled meat along with some lambs lettuce, or rocket leaves. A warm salad has a tangy and refreshing flavor thanks to mustard, vinegar, and chicken stock.",
             "ingredients": [
-                "",
-                ""
+                "Potatoes (Charlotte, MAris Piper or Jersey Royals",
+                "Red Onion", 
+                "Chicken or Beef Stock",
+                "Apple Cider Vinegar",
+                "Dijon Mustard", 
+                "Vegetable Oil", 
+                "Sugar"
             ],
             "instructions": [
-                "Step 1: "
-            ], 
-            "image": " ",
-            "category": " "
+                "Step 1: Peel and cut the potatoes in 2 cm- 3 cm cubes or slice them 1.5 cm - 2 cm thickness if you like. Place them in a pan with cold water over medium heat and bring to boil. Lower the heat and gently simmer until the potatoes are cooked.", 
+                "Step 2: In a small saucepan, combine the stock, vinegar, mustard, salt, sugar, pepper and vegetable oil. Gently warm the sauce on low heat until the sugar resolves, remove from the heat and add the red onions. The warm sauce helps the red onions get slightly softened but still crunchy.", 
+                "Add the sauce to the potatoes and gently stir to combine all the ingredients until the starch from the potatoes starts to thicken the sauce. Check the seasoning and add more salt or vinegar if needed. Garnish with chopped chives and serve warm or room temperature to maintain the creamy texture of the sauce."
+            ],
+            "image": "public/images/austrianpotatosalad.jpeg",
+            "category": [
+                "lunch", 
+                "dinner"
+            ]
 
         }, 
         {
             "id": 20,
-            "title": "Cheeseburger",
-            "country": "America",
-            "description": " ",
+            "title": "American Cheeseburger",
+            "country": "United States of America",
+            "description": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt.",
             "ingredients": [
-                "",
-                ""
+                "1.2 kg of freshly ground chuck",
+                "1 tbsp of onion powder",
+                "1 tsp salt",
+                "1 tsp freshly ground black pepper",
+                "12 slices of American cheese",
+                "6 large burger buns, preferably homemade",
+                "lettuce",
+                "onions, sliced",
+                "tomatoes, sliced",
+                "ketchup",
+                "pickles, sliced"
             ],
             "instructions": [
-                "Step 1: "
+                "Step 1: In a large bowl gently mix ground beef and onion powder, then shape into six patties that are slightly larger than your hamburger buns and have a dent in the center.", 
+                "Step 2: Heat your grill, grill pan, or a cast iron skillet over high heat, season the patties liberally with salt and pepper, then place them on the grill to cook.", 
+                "Step 3: Cook for about two minutes until the crust on the bottom has formed. Flip the burgers once you can lift them up easily then add two cheese slices to each. Cook for another two to three minutes.", 
+                "Step 4: Remove from the grill and transfer into buns, add the desired garnishings and condiments like lettuce, onions, tomatoes, and ketchup, then serve."
             ], 
-            "image": " ",
-            "category": " "
-
+            "image": "public/images/americancheeseburger.jpeg",
+            "category": [
+                "lunch",
+                "dinner"
+            ]
         }  
 
     ]
